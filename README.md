@@ -1,2 +1,2 @@
 # My First Git Project
-Prof: Randi Haboc
+Prof: Randi Haboc - Introduction To Git
